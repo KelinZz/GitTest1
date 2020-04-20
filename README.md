@@ -1,2 +1,2 @@
-# GitTest1
+# GitTest for JavaDeveloper useres
 GitTest for JavaDeveloper useres
